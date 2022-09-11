@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shriniwas Mete</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" width="400" alt="shree">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriniwasmete&label=Profile%20views&color=0e75b6&style=flat" alt="shriniwasmete" /> </p>
 
